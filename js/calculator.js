@@ -26,5 +26,3 @@ Calculator.prototype.add = function() {
     return a + b;
   });
 }
-
-export { Calculator };
